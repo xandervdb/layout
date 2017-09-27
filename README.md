@@ -32,9 +32,6 @@ Layout moet aan de volgende technische eisen voldoen:
 * De positionering van de pagina doe je door gebruik van het **flex weergave type**
 * **Er staan geen style elementen en atributen in de HTML**
 
-
-Wanneer je een mooi nieuwsportaal hebt gemaakt voor jouw favoriete hobby, kun je de website uitbreiden zodat hij ook op een tablet en een mobiel goed zichtbaar is. Hiervoor kun je de stylesheet uitbreiden met 'media queries'. Hierdoor kunnen alle bezoekers jouw nieuwsportaal goed bekijken. Pas per weergave (tablet en mobiel) de flex weergave zo aan dat hij per weergave een iets ander uiterlijk krijgt.
-
 ### Bronnen
 #### HTML/CSS
 * [Voorbeeld webpagina over auto's](https://www.jwhuisman.nl/dvc/2016/layout/voorbeelden/home.jpg)
